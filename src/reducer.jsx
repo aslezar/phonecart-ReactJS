@@ -1,5 +1,3 @@
-import CartItem from "./CartItem";
-
 const reducer = (state, action) => {
 	if (action.type === "CLEAR_CART") {
 		return { ...state, cart: [] };

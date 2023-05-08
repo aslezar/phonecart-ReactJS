@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cocktails-reactJS/static/css/main.4ce4c569.css",
+    "main.js": "/Cocktails-reactJS/static/js/main.71a5fffc.js",
+    "index.html": "/Cocktails-reactJS/index.html",
+    "main.4ce4c569.css.map": "/Cocktails-reactJS/static/css/main.4ce4c569.css.map",
+    "main.71a5fffc.js.map": "/Cocktails-reactJS/static/js/main.71a5fffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce4c569.css",
+    "static/js/main.71a5fffc.js"
+  ]
+}
